@@ -7,7 +7,6 @@ function App() {
     <WordCard value="hello"/>
     </div>
     );
-   
 }
 export default App;
 
